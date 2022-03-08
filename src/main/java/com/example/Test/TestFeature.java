@@ -6,6 +6,8 @@ public class TestFeature {
 
     public TestFeature()
     {
+        value2 =20;
+        value1 =30;
 
     }
 
