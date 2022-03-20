@@ -8,7 +8,6 @@ public class TestFeature {
     {
         value2 =20;
         value1 =30;
-
     }
 
     public int Generate()
