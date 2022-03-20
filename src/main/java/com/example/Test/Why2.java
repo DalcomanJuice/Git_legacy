@@ -5,5 +5,6 @@ package com.example.Test;public class Why2 {
     {
         a = 20;
         int b;
+        int c;
     }
 }

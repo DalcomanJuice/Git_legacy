@@ -9,6 +9,7 @@ public class IntelliJTest3 {
     public IntelliJTest3() {
         myData1 = 20;
         myData2 = 30;
+        myData3 = 30;
     }
 
 }
